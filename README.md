@@ -4,6 +4,7 @@ Projeto para obter dados do site climatempo em Python, usando biblioteca Seleniu
 # Requisitos
 - Python3
 - bibliotecas: selenium, bs4 e pandas
+- Linux
 - ter o browser google chrome instalado no seu S.O
 
 
